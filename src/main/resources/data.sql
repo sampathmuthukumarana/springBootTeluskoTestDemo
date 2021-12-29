@@ -1,0 +1,1 @@
+INSERT INTO alien VALUES(101,'Malaka')
